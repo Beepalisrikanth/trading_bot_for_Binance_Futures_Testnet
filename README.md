@@ -50,3 +50,9 @@ Then follow the interactive menu:
 1. Place Market Order
 2. Place Limit Order
 3. Exit
+
+
+![Image](https://github.com/user-attachments/assets/dca59646-3345-48f5-8f37-ba8c984a1a65)
+
+![Image](https://github.com/user-attachments/assets/e0537ec2-4121-4e0c-8e87-142f034728aa)
+

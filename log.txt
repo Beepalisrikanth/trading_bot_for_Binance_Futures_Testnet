@@ -1,0 +1,13 @@
+2025-06-24 12:38:03,455:ERROR:Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:42:51,527:ERROR:Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:43:22,249:ERROR:Error placing market order: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:44:32,896:ERROR:Market order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:46:35,578:ERROR:Market order error: 'BasicBot' object has no attribute 'time_offset'
+2025-06-24 12:48:26,484:ERROR:Market order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:57:12,409:ERROR:Market order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 12:58:51,818:ERROR:Market order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 13:00:18,123:ERROR:Market order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 13:00:51,278:ERROR:Limit order error: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-06-24 13:03:00,420:INFO:Market order: {'orderId': 4676815207, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJef5a72521b93ef5bad0793', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1750750380351}
+2025-06-24 13:32:46,621:ERROR:Market order error: APIError(code=-1121): Invalid symbol.
+2025-06-24 13:33:10,707:ERROR:Market order error: APIError(code=-1121): Invalid symbol.
